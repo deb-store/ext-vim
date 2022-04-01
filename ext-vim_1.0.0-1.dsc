@@ -13,11 +13,11 @@ Build-Depends: debhelper-compat (= 13)
 Package-List:
  ext-vim deb editors optional arch=all
 Checksums-Sha1:
- e3fe6b46362bd34aa41ddcfb119e230e6de58ff9 292 ext-vim_1.0.0.orig.tar.xz
+ 88dcb8d0d5939df6775ddca51cc6ebe6b8260e0f 292 ext-vim_1.0.0.orig.tar.xz
  f193e21f49adf80edb37e5bdd05d76267dd31685 728 ext-vim_1.0.0-1.debian.tar.xz
 Checksums-Sha256:
- 93a5757f26d50f773e81e63da922d283c0b8e95ff0f35d6cf04e1d9718f7e654 292 ext-vim_1.0.0.orig.tar.xz
+ 766f7b32fc0a9135b3913e9ad88e653e1e30ecc805dbf365b6bbe2c3ceb380ea 292 ext-vim_1.0.0.orig.tar.xz
  f8dc660913bba877a9a4b34fa738db95e9f90e0a1054c59d790616c969170e17 728 ext-vim_1.0.0-1.debian.tar.xz
 Files:
- 6e32c305432db926b2962b8ff5cfb603 292 ext-vim_1.0.0.orig.tar.xz
+ 1fa2b633c1be03c6ec77bc028911ba9d 292 ext-vim_1.0.0.orig.tar.xz
  c5660badb5d3533e48e016aae309e33b 728 ext-vim_1.0.0-1.debian.tar.xz
